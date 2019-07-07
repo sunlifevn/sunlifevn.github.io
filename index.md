@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# Header 1
+# WELCOME
 
 Ting Ting Contact... :D
 
