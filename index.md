@@ -5,5 +5,5 @@ layout: default
 
 # WELCOME
 
-Ting Ting Contact... :D
+Ting Ting Contact... :DD
 
